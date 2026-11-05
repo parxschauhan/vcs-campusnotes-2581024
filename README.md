@@ -1,6 +1,6 @@
 
 
-\# Campus Notes
+# Campus Notes
 
 
 
@@ -8,11 +8,11 @@ updated from second clone
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-\### Clone the repository
+### Clone the repository
 
 
 
@@ -24,7 +24,7 @@ git clone https://github.com/parxschauhan/vcs-campusnotes-2581024.git
 
 
 
-\### Open the project
+### Open the project
 
 
 

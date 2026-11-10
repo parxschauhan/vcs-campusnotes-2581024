@@ -33,9 +33,9 @@ Navigate to the project folder using the cd command, then open it in your prefer
 
 ## Features
 
-- Organize campus notes in one place.
-- Share study resources with classmates.
-- Maintain project documentation.
+1. Organize campus notes in one place.
+2. Share study resources with classmates.
+3. Maintain project documentation.
 
 
 ## Prerequisites

@@ -28,7 +28,7 @@ git clone https://github.com/parxschauhan/vcs-campusnotes-2581024.git
 
 
 
-Navigate to the project folder and open it in your preferred code editor.
+Navigate to the project folder using the cd command, then open it in your preferred code editor.
 
 
 ## Features

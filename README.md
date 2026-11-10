@@ -38,5 +38,14 @@ Navigate to the project folder using the cd command, then open it in your prefer
 - Maintain project documentation.
 
 
+## Prerequisites
+
+Before starting the project, make sure you have:
+
+- Git installed on your computer.
+- A GitHub account.
+- Git Bash or another terminal.
+
+
 
 
